@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Test Alodokter</string>
+    <string name="label_home">Home</string>
+    <string name="label_profile">Profile</string>
+    <string name="label_name">Rahmat Abadi Suharjo</string>
+    <string name="label_gender_male">Male</string>
+    <string name="label_phone_number">+6285865734343</string>
+    <string name="label_username">E-Mail/Username</string>
+    <string name="label_password">Password</string>
+    <string name="label_login">Login</string>
+    <string name="label_failed_verification_login">Your user name or password is not valid</string>
+    <string name="label_logout">Logout</string>
+    <string name="message_logout">Are you sure will log out of Alodokter?</string>
+    <string name="message_double_press">Press back again</string>
+</resources>
